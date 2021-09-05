@@ -18,7 +18,7 @@ record.json                                               👍 is to maintain th
 sales.json                                                👍 to store daily sale data
 
 ## Features
-1. Here user  can take huse product  simultaneously
+1. Here user  can take huge product  simultaneously
 2. maintain daily basis data and  increase productivity  by  checking user intrest
 3. Record is updating automatically after each sale
 *  Product feature (Product name ,Company name ,product id, quantity, Price)
