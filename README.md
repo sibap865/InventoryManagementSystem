@@ -13,7 +13,7 @@ In this project we are creating  a simple dictionary for collecting user purchas
 
 ## ALL files name
 Creating_inventory_and_adding_new_Product.ipynb           👍 this file totaly for shopkeeper,     
-PurchasingNewProducts.ipynb                               👍 This is for billing and updating database daily basis,
+PurchasingNewProducts.ipynb                               👍 This is for billing and updating database daily basis,      
 record.json                                               👍 is to maintain the record,    
 sales.json                                                👍 to store daily sale data
 
