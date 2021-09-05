@@ -20,4 +20,7 @@ sales.json                                          👍 to store daily sale dat
 
 
 # About me
-My name is sibaprasad . Curently doing B.tech in GIET University Gunupur. studying Machine learning , deep learning  ,Computer Vision to impelement in humonoid Robot to help handicap people  
+My name is sibaprasad . Curently doing B.tech in GIET University Gunupur. studying Machine learning , deep learning  ,Computer Vision to impelement in humonoid Robot to help handicap people
+
+### link to my profie
+linkedin:-https://www.linkedin.com/in/siba-prasad-98043b1ba
