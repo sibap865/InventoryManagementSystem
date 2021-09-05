@@ -12,9 +12,9 @@ An inventory management system is a combination of technology (hardware and soft
 In this project we are creating  a simple dictionary for collecting user purchasing data daily basis and updating into json file .User can enter any number of data it is very user friendly and its features are explanatory in nature.in the second part we are showing each user to their bill and maintaining in two file
 
 ## ALL files name
-Creating_inventory_and_adding_new_Product.ipynb           👍 this file totaly for shopkeeper
-PurchasingNewProducts.ipynb                               👍 This is for billing and updating database daily basis
-record.json                                               👍 is to maintain the record  
+Creating_inventory_and_adding_new_Product.ipynb           👍 this file totaly for shopkeeper,     
+PurchasingNewProducts.ipynb                               👍 This is for billing and updating database daily basis,
+record.json                                               👍 is to maintain the record,    
 sales.json                                                👍 to store daily sale data
 
 ## Features
